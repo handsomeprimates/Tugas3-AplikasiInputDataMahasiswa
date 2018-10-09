@@ -1,0 +1,22 @@
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\File Visual Studio\materi3\Tugas3-AplikasiInputDataMahasiswa-master\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
